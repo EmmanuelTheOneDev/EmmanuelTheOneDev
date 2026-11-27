@@ -1,0 +1,17 @@
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 8
