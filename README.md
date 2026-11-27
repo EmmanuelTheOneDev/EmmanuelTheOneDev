@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Emmanuel%20Oyewale%20Oyediran&fontSize=38&fontColor=ffffff&fontAlignY=38" alt="banner" />
 </p>
 
-<h3 align="center">Software Engineer · Java, Python &amp; Javascript </h3>
+<h3 align="center">Software Engineer · Java, JavaScript &amp; Python </h3>
 
 <p align="center">
   📍 Lagos, Nigeria &nbsp;|&nbsp;
@@ -11,16 +11,16 @@
   💻 <a href="https://github.com/EmmanuelTheOneDev">GitHub</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/emmanuel-oyediran/">LinkedIn</a> &nbsp;|&nbsp;
   🐦 <a href="https://twitter.com/sega_dudu">X</a> &nbsp;|&nbsp;
-  📄 <a href="https://github.com/EmmanuelTheOneDev/EmmanuelTheOneDev/blob/main/Emmanuel_Oyewale_CV_Turing.pdf">Download CV</a>
+  📄 <a href="https://github.com/EmmanuelTheOneDev/EmmanuelTheOneDev/blob/main/Emmanuel_Oyewale_CV.pdf">Download CV</a>
 </p>
 
 ---
 
 ## Professional Summary
 
-Software engineer in training, building backend applications in **Java** and **Python**. My habit is to write the test that proves a bug exists before I fix it, and I keep most of my repositories public so my commit history shows how I work. I came to software from five years in marketing and business development, so I think about the person using the product as well as the code behind it. My foundation is object-oriented design, data structures and test-driven development. I debug methodically, I write the test that exposes a bug before I fix it, and I keep my repositories public so my commit history shows how I work.
+Software engineer focused on backend development with **Java** and **Python**. I design layered applications, back them with extensive **JUnit 5** and **pytest** suites, and validate inputs and failure paths before any state changes. My largest Java project has 350 passing tests. My foundation is object-oriented design, data structures and test-driven development. I debug methodically, I write the test that exposes a bug before I fix it, and I keep my repositories public so my commit history shows how I work.
 
-Currently moving from console applications and layered architecture into **Spring Boot**, **databases** and **REST APIs**. I also work with data: writing **SQL** queries and turning the results into insights with **Power BI**.
+Now building production-style services with **Spring Boot**, **REST APIs** and **databases** (MongoDB and MySQL), and looking for a junior backend role on a team that values clean code and code review.
 
 ---
 
@@ -119,6 +119,24 @@ I'm open to internship, graduate and junior backend roles (Java, Spring Boot, Py
   <a href="https://www.linkedin.com/in/emmanuel-oyediran/">LinkedIn</a> ·
   <a href="https://twitter.com/sega_dudu">X</a>
 </p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EmmanuelTheOneDev&hide_border=true" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelTheOneDev&layout=compact&hide_border=true" alt="Top languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelTheOneDev&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
