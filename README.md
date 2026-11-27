@@ -103,8 +103,7 @@ I keep a record of the bugs I've hit, because that is where most of my learning 
 
 ## Education
 
-**Software Engineering Training — SemiColon Africa**, Lagos, Nigeria · 2026 – Present
-Project-based training in Java, Python, JavaScript, data structures, testing and software architecture.
+**Software Engineering — SemiColon Africa**, Lagos, Nigeria 
 
 ---
 
