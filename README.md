@@ -11,7 +11,7 @@
   💻 <a href="https://github.com/EmmanuelTheOneDev">GitHub</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/emmanuel-oyediran/">LinkedIn</a> &nbsp;|&nbsp;
   🐦 <a href="https://twitter.com/sega_dudu">X</a> &nbsp;|&nbsp;
-  📄 <a href="https://github.com/EmmanuelTheOneDev/EmmanuelTheOneDev/blob/main/Emmanuel_Oyewale_CV.pdf">Download CV</a>
+  📄 <a href="https://github.com/EmmanuelTheOneDev/EmmanuelTheOneDev/blob/main/Emmanuel_Oyewale_CV_Turing.pdf">Download CV</a>
 </p>
 
 ---
