@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Emmanuel%20Oyewale%20Oyediran&fontSize=38&fontColor=ffffff&fontAlignY=38" alt="banner" />
 </p>
 
-<h3 align="center">Software Engineer · Java &amp; Python · Backend, Testing and Data Structures</h3>
+<h3 align="center">Software Engineer · Java, Python &amp; Javascript </h3>
 
 <p align="center">
   📍 Lagos, Nigeria &nbsp;|&nbsp;
@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Software engineer in training, building backend applications in **Java** and **Python**. My habit is to write the test that proves a bug exists before I fix it, and I keep my repositories public so my commit history shows how I work. I came to software from five years in marketing and business development, so I think about the person using the product as well as the code behind it.
+Software engineer in training, building backend applications in **Java** and **Python**. My habit is to write the test that proves a bug exists before I fix it, and I keep most of my repositories public so my commit history shows how I work. I came to software from five years in marketing and business development, so I think about the person using the product as well as the code behind it. My foundation is object-oriented design, data structures and test-driven development. I debug methodically, I write the test that exposes a bug before I fix it, and I keep my repositories public so my commit history shows how I work.
 
 Currently moving from console applications and layered architecture into **Spring Boot**, **databases** and **REST APIs**. I also work with data: writing **SQL** queries and turning the results into insights with **Power BI**.
 
@@ -30,7 +30,7 @@ Currently moving from console applications and layered architecture into **Sprin
 |---|---|
 | **Languages** | Java, Python, JavaScript, SQL, HTML5/CSS3 |
 | **Backend** | Spring Boot (REST controllers, services, repositories, DTOs, global exception handling), layered architecture |
-| **Databases** | MongoDB ([MealPlanner](https://github.com/EmmanuelTheOneDev/MealPlanner)), MySQL ([practice repo](https://github.com/EmmanuelTheOneDev/MySQL)) |
+| **Databases** | MongoDB ([MealPlanner](https://github.com/EmmanuelTheOneDev/MealPlanner)), MySQL |
 | **Data Analysis** | SQL queries in MySQL ([MySQL repo](https://github.com/EmmanuelTheOneDev/MySQL)), interpreting query results, Power BI (dashboards and reports, learning) |
 | **Testing** | JUnit 5, pytest, unittest, test-driven development, edge-case and failure-path tests |
 | **Fundamentals** | OOP, enums, exceptions, Big O, hand-built ArrayList, LinkedList, Stack, Queue, Set and Map |
