@@ -109,7 +109,7 @@ I keep a record of the bugs I've hit, because that is where most of my learning 
 
 ## Let's Connect
 
-I'm open to internship, graduate and junior backend roles (Java, Spring Boot, Python).
+I'm open to internship, graduate and junior backend roles (Java, Spring Boot, Python, JavaScript).
 
 <p align="center">
   <a href="mailto:diranoye2020@gmail.com">Email</a> ·
